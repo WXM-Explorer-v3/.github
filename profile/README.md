@@ -42,3 +42,9 @@ WXM Explorer V3 is an extension for [WXM Explorer](https://weatherxm.com/explore
 4. An extra layer of bearer token encryption while claiming bounty would make this flow un-breachable
 
 
+## Deployments (Arbitrium Sepolia)
+**BountyManager** - 0x89fb12264B5D9DA8604cd9BcB6Abb593a91B172e
+
+**MockWXM Token** - 0x4Fc5C4461Ca5Fdc7b9D91c6B0DEfEB5D9Fb5Eb43
+
+**Chainlink Functions SubscriptionID** - 86
